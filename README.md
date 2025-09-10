@@ -50,3 +50,8 @@ Users: 5, Requests: 25, Success: 25, Fail: 0, Avg Response: 0.134s
 - Gradually increase users/requests to see how your server performs under load.  
 - Monitor server logs and CPU/memory usage during tests.  
 - You can modify the script to log detailed response times or batch requests for safer large-scale testing.
+
+  ## 📸 Screenshots
+
+ **DEMO RUN**  
+ ![Intercepted Request]()
