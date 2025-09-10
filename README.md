@@ -22,7 +22,7 @@ pip install aiohttp
 
 Run the script:  
 ```bash
-python DOS_Attack.py
+python "Path of the file"
 ```
 
 **Enter the input parameters when prompted:**  
