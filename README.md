@@ -54,4 +54,4 @@ Users: 5, Requests: 25, Success: 25, Fail: 0, Avg Response: 0.134s
   ## 📸 Screenshots
 
  **DEMO RUN**  
- ![Intercepted Request]()
+ ![Sending Request](https://github.com/Harbeer-Singh/Website-load-tester/blob/main/images/TEST%20RUN.png)
